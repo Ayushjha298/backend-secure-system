@@ -1,0 +1,27 @@
+[2025-03-07T11:19:13.979Z] METHOD: POST | URL: /api/auth/login | User: ayushjha298@gmail.com
+[2025-03-07T11:19:14.364Z] login successfull: User logged in - ayushjha298@gmail.com
+[2025-03-07T11:19:46.584Z] METHOD: GET | URL: /api/user/profile | User: undefined
+[2025-03-07T11:19:46.589Z] user request for profile: User ID - 67c9d23bf06238f57a0832ed
+[2025-03-07T11:19:46.738Z] user profile fetched successfully: User ID - 67c9d23bf06238f57a0832ed
+[2025-03-07T11:19:56.957Z] METHOD: POST | URL: /api/auth/request-password-reset | User: ayushjha298@gmail.com
+[2025-03-07T11:19:57.059Z] password reset request error : user is not defined
+[2025-03-07T11:20:07.547Z] METHOD: POST | URL: /api/auth/request-password-reset | User: ayushjha298@gmail.com
+[2025-03-07T11:20:07.791Z] password reset request error : user is not defined
+[2025-03-07T11:21:32.756Z] METHOD: POST | URL: /api/auth/request-password-reset | User: ayushjha298@gmail.com
+[2025-03-07T11:21:33.660Z] password reset request error : user is not defined
+[2025-03-07T11:23:09.245Z] METHOD: POST | URL: /api/auth/request-password-reset | User: ayushjha298@gmail.com
+[2025-03-07T11:23:14.232Z] password reset request: Reset link sent - ayushjha298@gmail.com
+[2025-03-07T11:23:59.304Z] METHOD: POST | URL: /api/auth/reset-password | User: undefined
+[2025-03-07T11:24:00.033Z] password reset request: Password changed - ayushjha298@gmail.com
+[2025-03-07T11:24:06.771Z] METHOD: POST | URL: /api/auth/login | User: ayushjha298@gmail.com
+[2025-03-07T11:24:07.040Z] login failed: Invalid email or password - ayushjha298@gmail.com
+[2025-03-07T11:24:11.986Z] METHOD: POST | URL: /api/auth/login | User: ayushjha298@gmail.com
+[2025-03-07T11:24:12.393Z] login successfull: User logged in - ayushjha298@gmail.com
+[2025-03-07T11:24:42.581Z] METHOD: POST | URL: /api/auth/login | User: vivek@gmail.com
+[2025-03-07T11:24:42.907Z] login successfull: User logged in - vivek@gmail.com
+[2025-03-07T11:24:54.120Z] METHOD: GET | URL: /api/admin/users | User: undefined
+[2025-03-07T11:24:54.194Z] fetch users : Retrieved 6 users
+[2025-03-07T11:49:00.616Z] METHOD: POST | URL: /api/auth/register | User: muskan@gmail.com
+[2025-03-07T11:49:00.951Z] register success: User registered - muskan@gmail.com
+[2025-03-07T11:49:13.172Z] METHOD: POST | URL: /api/auth/login | User: muskan@gmail.com
+[2025-03-07T11:49:13.291Z] login successfull: User logged in - muskan@gmail.com
