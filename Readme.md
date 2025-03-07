@@ -134,11 +134,6 @@ Retrieves all users (admin access required).
 ## Logging
 - Logs security-related events and user activities using the file system.
 
-## Testing
-To run tests:
-```sh
-npm test
-```
 
 ## Postman Collection
 You can find the Postman collection to test all APIs [here](https://drive.google.com/file/d/102S4OGa7rhlAmvs1jNFsqqdUmf64i4bw/view?usp=sharing).
